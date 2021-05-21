@@ -1,5 +1,3 @@
-package com.slc.needle.components
-
 import android.app.Dialog
 import android.content.Context
 import android.graphics.Color
@@ -8,7 +6,6 @@ import android.view.Window
 import android.widget.Button
 import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
-import com.slc.needle.R
 
 class CustomDialog constructor(val context: Context) {
 
